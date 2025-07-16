@@ -1,0 +1,281 @@
+
+--- PAGE 1 ---
+RK73H
+precision 0.5%, 1% tolerance
+thick film chip resistor
+EU
+features
+Type* Dimensions inches (mm)
+(Inch Size Code) L W c d t
+1F .016±.0008 .008±.0008 .004±.001 .004±.001 .005±.0008
+(01005) (0.4±0.02) (0.2±0.02) (0.1±0.03) (0.11±0.03) (0.13±0.02)
+dimensions and construction
+1H .024±.001 .012±.001 .004±.002 .006±.002 .009±.001
+c L c (0201) (0.6±0.03) (0.3±0.03) (0.1±0.05) (0.15±0.05) (0.23±0.03)
+t W N P S P l l n i a a t t i i n n g g ( ( 1 0 0 E
+1
+4 4
+E
+0 0 A 2 2 T ) ) . ( 0 1 3 . 0 9 + - + 0 0 - . . . . 0 0 1 0 5 0 0 4 2 ) ( . 0 0 . 2 5 ± ±0 .0 .0 0 5 2 )
+.
+( .
+0
+( 0 0 0
+0
+. 1 2 .
+8
+2 ± 5
+±
+± ± . 0 0
+.
+0
+0
+. 0 . 1
+0
+1 4 )
+4
+) ( . ( 0 0
+.
+0
+0
+. 1 . 2 3
+1
+2 5 ± ±
++
+0
+-
++ .
+. .
+- .
+0 0
+0 0 0 1 .
+0 0
+. 0 0 1 5
+2 4
+5 6 ) ) ( . 0 0 . 1 3 4 5 ± ±0 .0 .0 0 5 2 )
+d Protective Resistive Inner
+Coating Film Electrode 1J .012±.004 .012±.004
+Ceramic (0603) .063±.008 .031±.004 (0.3±0.1) (0.3±0.1) .018±.004
+Substrate
+(1.6±0.2) (0.8±0.1) (0.45±0.1)
+Derating Curve
+2A .016±.008 .0 1 2 + - . . 0 0 0 0 8 4 .02±.004
+(0805) .079±.008 .049±.004 (0.4±0.2) (0 . 3 + -0 0 . . 1 2) (0.5±0.1)
+(2.0±0.2) (1.25±0.1)
+(1
+2
+2
+B
+06 ) .0 (1 6 . 3 6 ± ±0 .0 .2 0 ) 8
+.
+(
+0
+0
+2
+.5
+±
+±
+.
+0
+0
+.
+1
+3
+2
+)
+.
+(
+0
+0
+1
+. 4
+6
++
++
+-
+-
+0 0
+. . 0 0
+. . 1 2
+0 0
+)
+8 4
+.126±.008 (3.2±0.2)
+2E .102±.008
+(1210) (2.6±0.2) .0 1 6 + - . . 0 0 0 0 8 4
+(2 2 0 H 10 ) .197±.008 .098±.008 (0 . 4 + -0 0 . . 1 2) .0 (0 2 . 4 6 ± ±0 .0 .1 0 ) 4
+W2H *1 (5.0±0.2) (2.5±0.2) .026±.006
+(2010) .02±.012 (0.65±0.15)
+(0.5±0.3)
+3A *1 .0 1 6 + - . . 0 0 0 0 8 4
+*Parentheses indicate EIA package size codes. (2512) .248±.008 .122±.008 (0.4 +0.2)
+*1 RK73H 2H, 3A and 3A2 are also still available (different “d” dimensions = 0.4 +0.2/-0.1mm) (6.3±0.2) (3.1±0.2)
+-0.1
+W3A/W3A2*1 .026±.006
+(2512) (0.65±0.15)
+ordering information
+RK73H 2B T TD 1003 F
+Termination Nominal
+Type Size Characteristics Packaging Tolerance
+Material Resistance
+1F, 1H Nil:Standard T: Sn TX: 4mm width - 1mm pitch plastic embossed 3 significant D:±0.5%
+1E, 1J A: Heat shock G: Au *3 TBL - TCM: 2mm pitch press paper *5 figures + 1 F: ±1%
+2A, 2B resistance *2 (L:Sn/Pb*4) TPL - TP: 2mm pitch punch paper multiplier
+2E TD: 4mm pitch punch paper “R” indicates
+W2H TE: 4mm pitch plastic embossed decimal on
+value <100Ω
+W3A Other non-standard reel sizes available,
+2H, 3A contact factory for other options
+W3A2
+srotsiser
+100
+80 1F 1 2E H , , W 1E 2 , H 1 , J W , 2 3 A A , ( 2 1 B W , ), W3A2 (2W)
+60
+40
+20
+0 -60 -40 -20 0 20 40 60 80 100 120 140 160 -55 70 125 155 Ambient Temperature (°C) For resistors operated at an ambient
+temperature of 70°C or higher, the
+power shall be derated in accordance with the above derating curve.
+Specifications given herein may be changed at any time without prior notice. Please confirm technical specifications before you order and/or use. 11/03/23
+KOA Speer Electronics, Inc. • 199 Bolivar Drive • Bradford, PA 16701 • USA • 814-362-5536 • Fax: 814-362-8883 • www.koaspeer.com 23
+rewoP
+detaR
+%
+100
+80 1H, 1EW, 12JH, ,2 WA,3 2AB (,1 2WE),
+60
+40
+20
+0 -60 -40 -20 0 20 40 60 80 100120 140 160
+-55 70 125 155 Terminal Part Temperature
+(°C)
+When the terminal part temperature of the resistor exceeds the rated terminal part
+temperature shown above, the power shall be derated according to the derating curve.
+Please refer to “Introduction of the derating curves based on the terminal part temperature”
+on the beginning of our catalog before use
+rewoP detaR %
+• Wide lineup from 01005 to 2512 size
+• Excellent heat resistance and weather resistance
+are ensured by the use of metal glaze thick film
+• Suitable for both flow and reflow solderings
+• Products with lead-free terminations meet EU RoHS requirements.
+EU RoHS regulation is not intended for Pb-glass contained in
+electrode, resistor element and glass.
+• AEC-Q200 Tested: 0201 (1H), 0402 (1E), 0603 (1J), 0805 (2A),
+1206 (2B), 1210 (2E), 2010 (2H/W2H), 2512 (3A/W3A/W3A2)
+1J AT .014±.006 .02±.008
+(0603) (0.35±0.15) (0.5±0.2)
+2A AT .018±.010 .024±.008 .022±.004
+(0805) (0.45±0.25) (0.6±0.2) (0.55±0.1)
+100
+80 60 W3A2 2B AT .022±.014 .031±.008 40 (1206) (0.55±0.35) (0.8±0.2)
+20
+0 -60 -40 -20 0 20 40 60 80 100 120 140 160 -55 95 155
+Terminal Part Temperature (°C)
+*2 With type A only T is available as the terminal surface material
+*3 Products with gold plated electrodes are
+also available with 1E, 1J and 2A types The terminal surface material lead free (10Ω〜1MΩ), so please consult with us
+is standard.
+*4 With type 1F, 1H, W2H, W3A, W3A2 only T is available as the terminal surface material
+For further information on packaging,
+*5 Standard taping specification of 1H is TCM. Previously available“TC(10,000pcs/Reel)”is not recommended
+please refer to Appendix A
+for new designs.
+--- PAGE 2 ---
+Specifications given herein may be changed at any time without prior notice. Please confirm technical specifications before you order and/or use. 2/06/24
+24 KOA Speer Electronics, Inc. • 199 Bolivar Drive • Bradford, PA 16701 • USA • 814-362-5536 • Fax: 814-362-8883 • www.koaspeer.com
+resistors
+RK73H
+precision 0.5%, 1% tolerance
+thick film chip resistor
+applications and ratings
+Part Power Rated Te R r a m te in d a l T.C.R. Resistance Range Maximum Maximum Operating
+Designation Rating Ambient Part (x10-6/K) D±0.5% F±1% Working Overload Temperature
+Temp. Temp. E-24, E-96 E-24, E-96* Voltage Voltage Range
+RK73H1F 0.03W — ±200 — 100kΩ - 2MΩ* 20V 30V -55°C to +125°C
+(01005) ±250 — 10Ω - 91kΩ*
+RK73H1H ±200 10Ω - 1MΩ 10Ω - 10MΩ*
+(0201) 0.05W ±400 — 1.0Ω - 9.1Ω* 25V 50V
+RK73H1E 0.1W ±100 10Ω - 1MΩ 10Ω - 1MΩ 75V
+(0402) ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 10MΩ
+0.1W ±100 1.02kΩ - 1MΩ 1.02kΩ - 1MΩ 100V
+RK73H1J ±200 — 1.02MΩ - 10MΩ 75V
+(0603) ±100 10Ω - 1kΩ 10Ω - 1kΩ
+0.125W
+±200 — 1.0Ω - 9.76Ω
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK (0 7 8 3 0 H 5 2 ) A 0.25W ±200 — 1.0Ω - 9.76Ω 150V 200V
+±400 — 1.02MΩ - 10MΩ
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK73H2B 0.25W 70°C 125°C ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 5.6MΩ
+(1206)
+±400 — 5.62MΩ - 10MΩ -55°C to +155°C
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK73H2E 0.5W ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 5.6MΩ 200V 400V
+(1210)
+±400 — 5.62MΩ - 10MΩ
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK73HW2H/2H 0.75W ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 5.6MΩ
+(2010)
+±400 — 5.62MΩ - 10MΩ
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK73 (2 H 5 W 12 3 ) A/3A 1.0W ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 5.6MΩ 200V 400V
+±400 — 5.62MΩ - 10MΩ
+±100 10Ω - 1MΩ 10Ω - 1MΩ
+RK73HW3A2 2.0W 95°C ±200 — 1.0Ω - 9.76Ω, 1.02MΩ - 5.6MΩ 200V 400V
+(2512)
+±400 — 5.62MΩ - 10MΩ
+Rated voltage = √Power rating x resistance value or max. working voltage, whichever is lower
+* The nominal resistance value for RK73H1F (10Ω≦R≦2MΩ) and RK73H1H (1Ω≦R≦9.1Ω, 1MΩ≦R≦10MΩ) is E24.
+If any questions arise whether to use the “Rated Ambient Temperature” or the “Rated Terminal Part Temperature,” please give priority to the “Rated Terminal Part Temperature.”
+Prior to use and for more details refer to “Introduction of the derating curves based on the terminal part temperature” in the beginning of the catalog.
+While using under high power, the temperature of the product may increase depending on the condition of heat dissipation from PCB.
+Be sure to check the terminal part temperature as well as precautions to use on delivery specification before use.
+environmental applications
+Temperature Rise One-Pulse Limiting Electric Power
+100
+10 2A 1 1J 1E 0.1 1H 1F
+0.01 0.001 0.01 0.1 1 10 100 1000
+Performance Characteristics
+Requirement Δ R (%+0.1Ω)
+Parameter Limit Typical Test Method
+Resistance Within specified tolerance — 25°C
+T.C.R. Within specified T.C.R. — +25°C/-55°C and +25°C/+125°C
+Overload (Short time) ±2% ±1%: 1F; ±0.5%: Others Rated Voltage x 2.5 for 5 seconds (1E, 2B, W3A2: Rated Voltage x 2 for 5 seconds)
+±1%: 1F ~ W3A2 (10Ω≤R≤1MΩ); ±0.5%: 1F ~ W3A2 (10Ω<R<1MΩ);
+Resistance to Soldering Heat ±3%: 1H ~ W3A2 (R<10Ω, R>1MΩ) ±1%: 1H ~ W3A2 (R<10Ω, R>1MΩ) 260°C ± 5°C, 10 seconds ± 1 second
+Characteristic (Nil) Standard: -55°C (30 minutes), +125°C (30 minutes),
+±1%: 1F, Characteristic (A) ±0.5%: 1F, Characteristic (A)
+100 cycles
+Rapid Change of Temperature Heat Shock Resistance Heat Shock Resistance
+Characteristic (A) Heat Shock Resistance: -55°C (30 minutes), +125°C
+±0.5% Others ±0.3% Others
+(30 minutes), 1000 cycles
+±2%: 1J, 2A, 2B ±0.75%: 1J, 2A, 2B; ±1.5%:1F, 40°C ± 2°C, 90%-95% RH, 1000 hours, 1.5 hr ON,
+Moisture Resistance
+±3%: Others ±1%: Other 0.5 hr OFF cycle
+Endurance at 70°C ±2%: 1J, 2A, 2B; ±3%: Others ±0.75%: 1J, 2A, 2B; ±1%: Others 70°C ± 2°C, 1000 hours, 1.5 hr ON, 0.5 hr OFF cycle
+±0.5%: 1F +125°C, 1000 hours: 1F; +155°C, 1000 hours: 1E, 1H,
+High Temperature Exposure ±1%
+±0.3%: Others 1J, 2A, 2B, 2E, 2H/W2H, 3A/W3A/W3A2
+cirtcelE gnitimiL esluP-enO
+Pulse Duration (ms)
+)W(
+rewoP cirtcelE gnitimiL esluP-enO
+60 1000
+40 100 W3A/W3A2 30 2H/W2H 20 10 10 2E
+2B
+0 1 0 25 50 75 100 0.001 0.01 0.1 1 10 100 1000 Pulse Duration (ms)
+)C°( esiR erutarepmeT
+100
+1E 90 2E 50 1 1 J E 80 2E 1 1 1 J H F 6 7 0 0 2 2 2 B A B 1H 50 1F 40 2A 30 20
+10
+0 0 25 50 75 100 Power Rating (%)
+)C°( esiR erutarepmeT
+300
+250 W3A2 W3A2 200 W3A 150 W2H W3A 100 W2H 50
+0 0 25 50 75 100 Power Rating Power Rating (%) (%)
+The maximum applicable voltage is equal to the max. overload voltage. Please ask us about Regarding the temperature rise, the value of the temperature the resistance characteristic of continuous applied pulse. The pulse endurance values are not varies per conditions and board for use since the temperature assured values, so be sure to check the products on actual equipment when you use them. is measured under our measuring conditions.
+)C°( esiR erutarepmeT
+RK73H 1F-1J RK73H 2A-2E RK73H W2H-W3A2 RK73H 1F-2A RK73H 2B-W3A2
+Measurement condition ①:Hot spot Room temperature: 25°C ②:Terminal PCB: FR-4t = 1.6mm Cu foil thickness: 35µm
